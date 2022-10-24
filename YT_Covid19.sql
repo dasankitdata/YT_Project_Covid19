@@ -1,5 +1,3 @@
--- select now()
-
 # Portfolio Project with COVID19 data.
 # This part consists of Death due to covid data
 
